@@ -2,7 +2,7 @@
 title: "Xinyu Luo"
 ---
 
-I am a PhD student in Polymer Science and Engineering at UMass Amherst, working in Steve Granick's research group.
+I am a PhD student in Polymer Science and Engineering at UMass Amherst, working in **[Steve Granick’s research group](https://sites.google.com/view/granick/home?authuser=0)**.
 
 This is my personal academic website and a small personal corner online.
 
