@@ -11,7 +11,7 @@ This is my personal academic website and a small personal corner online.
 - Microplastics
 - Active matter
 - Biomaterials and interfaces
-- Surface chemistry
+- Thin film
 
 ## Contact
 
