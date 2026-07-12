@@ -71,3 +71,12 @@ body {
   max-width: 1100px;
   margin: 0 auto;
 }
+
+strong a {
+  color: inherit;
+  text-decoration: underline;
+}
+
+strong a:hover {
+  color: $primary;
+}
