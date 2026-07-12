@@ -1,0 +1,7 @@
+---
+title: "About"
+---
+
+I am a PhD student in Polymer Science and Engineering at UMass Amherst.
+
+This page will include more about my background, research interests, and academic journey.

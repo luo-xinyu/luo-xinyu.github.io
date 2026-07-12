@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Xinyu Luo"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: notes.qmd
+        text: Notes
+
+format:
+  html:
+    theme: cosmo
+    toc: true
