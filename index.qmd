@@ -1,5 +1,6 @@
 ---
 title: "Xinyu Luo"
+description: "Xinyu Luo — wandering through science, places, and questions."
 ---
 
 I am a PhD student in Polymer Science and Engineering at UMass Amherst, working in **[Steve Granick’s research group](https://sites.google.com/view/granick/home?authuser=0)**.

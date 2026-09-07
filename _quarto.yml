@@ -4,6 +4,8 @@ project:
 
 website:
   title: "Xinyu Luo"
+  site-url: https://luo-xinyu.github.io
+  description: "Xinyu Luo — wandering through science, places, and questions."
   navbar:
     left:
       - href: index.qmd
