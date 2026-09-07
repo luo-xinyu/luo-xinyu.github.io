@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - google1c8d05ddbf8c0bb6.html
 
 website:
   title: "Xinyu Luo"
