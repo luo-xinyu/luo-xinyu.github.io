@@ -1,5 +1,11 @@
 ---
-title: "Notes"
+title: "Posts"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  fields: [date, title, description]
+toc: false
 ---
 
-This is where I may post notes, reflections, and small personal observations. Cooking recipes will be updated as well.
+Notes, reflections, and small personal observations. Cooking recipes will be updated as well.

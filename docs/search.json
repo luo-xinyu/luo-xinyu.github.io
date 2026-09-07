@@ -1,17 +1,45 @@
 [
   {
-    "objectID": "notes.html",
-    "href": "notes.html",
-    "title": "Notes",
+    "objectID": "posts/scientists-do-not-breed-true/index.html",
+    "href": "posts/scientists-do-not-breed-true/index.html",
+    "title": "Scientists Do Not Breed True",
     "section": "",
-    "text": "This is where I may post notes, reflections, and small personal observations. Cooking recipes will be updated as well."
+    "text": "Academia has a peculiar fascination with pedigree.\nWe ask where someone did their PhD, who their advisor was, whose advisor that advisor was, and, given enough coffee, we can usually reconstruct a family tree reaching several generations back. Some branches are impressively decorated: famous institutions, famous laboratories, famous names, perhaps even a Nobel laureate somewhere upstream.\nThis silly lineage is real. Ideas and projects travel through people. Experimental techniques are passed from one laboratory to another. Advisors introduce students to collaborators, collaborators introduce them to future employers, and a familiar name on a recommendation letter can make a door considerably easier to open.\nA simple model for the production of scientists may look like:\nscientist → student → scientist → student → scientist\nAccordingly, scientists should arise predominantly near existing concentrations of scientists. MIT, Caltech, Harvard and other named school should produce scientists. Their students should diffuse outward, establish new laboratories, train more students, and so on, and write down a flux:\n\\[\nJ=-Dc\n\\]\nwhere (c) is the local concentration of scientists and (D) is some poorly defined academic diffusion coefficient involving fellowships, recommendation letters, conference dinners, and the willingness to move to another continent for a postdoc."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "posts/scientists-do-not-breed-true/index.html#the-pedigree-hypothesis",
+    "href": "posts/scientists-do-not-breed-true/index.html#the-pedigree-hypothesis",
+    "title": "Scientists Do Not Breed True",
     "section": "",
-    "text": "I am a PhD student in Polymer Science and Engineering at UMass Amherst.\nThis page will include more about my background, research interests, and academic journey."
+    "text": "Academia has a peculiar fascination with pedigree.\nWe ask where someone did their PhD, who their advisor was, whose advisor that advisor was, and, given enough coffee, we can usually reconstruct a family tree reaching several generations back. Some branches are impressively decorated: famous institutions, famous laboratories, famous names, perhaps even a Nobel laureate somewhere upstream.\nThis silly lineage is real. Ideas and projects travel through people. Experimental techniques are passed from one laboratory to another. Advisors introduce students to collaborators, collaborators introduce them to future employers, and a familiar name on a recommendation letter can make a door considerably easier to open.\nA simple model for the production of scientists may look like:\nscientist → student → scientist → student → scientist\nAccordingly, scientists should arise predominantly near existing concentrations of scientists. MIT, Caltech, Harvard and other named school should produce scientists. Their students should diffuse outward, establish new laboratories, train more students, and so on, and write down a flux:\n\\[\nJ=-Dc\n\\]\nwhere (c) is the local concentration of scientists and (D) is some poorly defined academic diffusion coefficient involving fellowships, recommendation letters, conference dinners, and the willingness to move to another continent for a postdoc."
+  },
+  {
+    "objectID": "posts/scientists-do-not-breed-true/index.html#active-particles",
+    "href": "posts/scientists-do-not-breed-true/index.html#active-particles",
+    "title": "Scientists Do Not Breed True",
+    "section": "Active Particles",
+    "text": "Active Particles\nUnfortunately humans are active particles. They do not diffuse down gradients of prestige, opportunity, or expectation. They self-propel. And this creates problems that the scientist phenotype does not breed true.\nA great scientist may train a student who becomes another great scientist. But the student may also become a consultant, an entrepreneur, a software engineer, a high-school teacher, a musician, or a very happy person who discovers that they never particularly liked research in the first place. Some people enter graduate school because follow a very carefully designed career trajectory. Some are simply delaying the alarming prospect of getting a real job.\nScientific ancestry is neither necessary nor sufficient.\nThe reverse direction is even more damaging to the pedigree hypothesis.\nScientists routinely appear where no obvious scientific ancestry can be found.\nBefore putting on a lab coat, one future scientist might have been doing physical work in petroleum industry. Another might have sat through an unbearably dull internship at a semiconductor company and concluded that whatever he wanted from life, this could not possibly be it. Another might have spent a winter repairing frozen pipes in a state key laboratory as a plumber man.\nOne scientific lineage may descend from a Nobel laureate.\nAnother lineage may begin with an assistant professor who barely survived the tenure process, fought desperately to keep his lab alive, and nevertheless managed to convince a student that doing science was worth the trouble.\nIt is not obvious which lineage will have produced the better scientist.\nAs pedigrees are supposed to make prediction easier. Science refuses to cooperate."
+  },
+  {
+    "objectID": "posts/scientists-do-not-breed-true/index.html#the-locked-door",
+    "href": "posts/scientists-do-not-breed-true/index.html#the-locked-door",
+    "title": "Scientists Do Not Breed True",
+    "section": "The Locked Door",
+    "text": "The Locked Door\nThere is a lineage hard to name: the transmission of the conviction that a question can be attacked, that an unfamiliar field can be entered, and that a closed door is a physical object rather than a divine commandment.\nSuppose you arrive at a door.\nThe door is locked.\nA bad scientist tells you: The door is locked. This statement is arguably correct.\nA good scientist tells you how the lock works.\nThere is a cylinder here, several pins of different heights, a shear line, a spring-loaded mechanism, and a particular range of configurations in which rotation becomes possible.\nNow the impossibility has become a mechanism, a great improvement.\nA even better scientist brings a screwdriver.\nSomeone with a slight engineering tendency may remove the hinges.\nAnd while a group of physicists are still standing in front of the door discussing the height of the energy barrier, somebody eventually throws a brick through the window.\nThis is the nonequilibrium process. It is hard but it works."
+  },
+  {
+    "objectID": "posts/scientists-do-not-breed-true/index.html#initial-conditions",
+    "href": "posts/scientists-do-not-breed-true/index.html#initial-conditions",
+    "title": "Scientists Do Not Breed True",
+    "section": "Initial Conditions",
+    "text": "Initial Conditions\nMany barriers in science are real.\nThere are prestigious institutions, powerful networks, expensive instruments, famous advisors, selective fellowships, recommendation letters, immigration restrictions, differences in money, geography, language, luck, and timing.\nSome people are handed a key.\nSome know the person who installed the lock.\nSome arrive already knowing that the door exists.\nOthers encounter the same door without a key, without a map, and occasionally without anyone willing to confirm that there is anything interesting on the other side.\nIt would be dishonest to pretend that these initial conditions do not matter, because they matter.\nBut an initial condition is not a boundary condition.\nPeople can inject active forces into the passive system.\nThey change directions.\nThey cross disciplines.\nThey meet someone unexpectedly.\nThey read one paper at the right time.\nThey become bored.\nThey become angry.\nThey fail at one thing and become curious about another.\nThey move to another country.\nThey ask a question for which they have absolutely no formal qualification and then spend several years becoming qualified to answer it.\nNoise matters.\nCollisions matter.\nRare events matter.\nSelf-motivation matters."
+  },
+  {
+    "objectID": "posts/scientists-do-not-breed-true/index.html#horizontal-transfer",
+    "href": "posts/scientists-do-not-breed-true/index.html#horizontal-transfer",
+    "title": "Scientists Do Not Breed True",
+    "section": "Horizontal Transfer",
+    "text": "Horizontal Transfer\nSo perhaps scientific “blood” exists after all. But it behaves more like horizontal gene transfer.\nA way of thinking can jump between unrelated people.\nSomeone at MIT may transmit it.\nSomeone at Caltech may transmit it.\nSomeone at UIUC may transmit it.\nSomeone at IBS in Korea may transmit it.\nSomeone at UMass may transmit it.\nIt may pass through the student of a Nobel laureate.\nIt may also pass through a young professor whose career just hardly began.\nCuriosity can jump.\nCourage can jump.\nStandards can jump.\nSo can the habit of looking at an apparently impossible problem and asking a slightly different question:\nWhy is it impossible?\nThat may be the most important inheritance a scientist can leave.\nAcademic pedigree tells us where someone came from.\nIt does not tell us where someone is allowed to go.\nXinyu\nAmherst, Massachusetts\nSeptember 2026"
   },
   {
     "objectID": "index.html",
@@ -33,5 +61,19 @@
     "title": "Xinyu Luo",
     "section": "Contact",
     "text": "Contact\nEmail: xinyuluo@umass.com"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am a PhD student in Polymer Science and Engineering at UMass Amherst.\nThis page will include more about my background, research interests, and academic journey."
+  },
+  {
+    "objectID": "notes.html",
+    "href": "notes.html",
+    "title": "Posts",
+    "section": "",
+    "text": "Notes, reflections, and small personal observations. Cooking recipes will be updated as well.\n\n\n\n\n\n\n\n\n\nScientists Do Not Breed True\n\n\nAcademic pedigree tells us where someone came from. It does not tell us where someone is allowed to go.\n\n\n\n\n\nSep 7, 2026\n\n\n\n\n\nNo matching items"
   }
 ]
