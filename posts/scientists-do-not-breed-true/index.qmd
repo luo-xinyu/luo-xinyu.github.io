@@ -3,79 +3,98 @@ title: "Scientists Do Not Breed True"
 author: "Xinyu Luo"
 date: "2026-09-07"
 description: "Academic pedigree tells us where someone came from. It does not tell us where someone is allowed to go."
+image: academic-polymer.png
+image-alt: "A hand-drawn polymer network of scientific careers and everyday life."
 toc: true
 ---
+
 ## The Pedigree Hypothesis
 
 Academia has a peculiar fascination with pedigree.
 
-We ask where someone did their PhD, who their advisor was, whose advisor *that* advisor was, and, given enough coffee, we can usually reconstruct a family tree reaching several generations back. Some branches are impressively decorated: famous institutions, famous laboratories, famous names, perhaps even a Nobel laureate somewhere upstream.
+We ask where someone did their PhD, who their advisor was, whose advisor that advisor was, and, given enough coffee, we can usually reconstruct a family tree reaching several generations back. Some branches are impressively decorated: famous institutions, famous laboratories, famous names, perhaps even a Nobel laureate somewhere upstream.
 
-This silly lineage is real. Ideas and projects travel through people. Experimental techniques are passed from one laboratory to another. Advisors introduce students to collaborators, collaborators introduce them to future employers, and a familiar name on a recommendation letter can make a door considerably easier to open.
+This lineage is not entirely silly. Ideas and projects travel through people. Experimental techniques pass from one laboratory to another. Advisors introduce students to collaborators, collaborators introduce them to future employers, and a familiar name on a recommendation letter can make a door considerably easier to open.
 
-A simple model for the production of scientists may look like:
+A simple model for the production of scientists might therefore look like:
 
 **scientist → student → scientist → student → scientist**
 
-Accordingly, scientists should arise predominantly near existing concentrations of scientists. MIT, Caltech, Harvard and other named school should produce scientists. Their students should diffuse outward, establish new laboratories, train more students, and so on, and write down a flux:
+Accordingly, scientists should arise predominantly near existing concentrations of scientists. MIT, Harvard, and other big-name schools should produce scientists. The great lineages should reproduce themselves generation after generation.
+
+One occasionally encounters beautifully tidy diagrams of this idea: Curie, Perrin, de Gennes, another big name, a student, and perhaps the student\'s future students---all connected by one continuous academic bloodline.
+
+Very elegant.
+
+Their descendants should then diffuse outward, establish new laboratories, train more students, and so on. We might even write down a flux:
 
 $$
-J=-Dc
+J = -D\nabla c
 $$
 
-where (c) is the local concentration of scientists and (D) is some poorly defined academic diffusion coefficient involving fellowships, recommendation letters, conference dinners, and the willingness to move to another continent for a postdoc.
+where c is the local concentration of scientists and D is some poorly defined academic diffusion coefficient involving fellowships, recommendation letters, conference dinners, and the willingness to move to another continent for a postdoc.
+
+This would be bad news for everyone born outside the family tree.
+
+Fortunately, the model fails almost immediately.
 
 ## Active Particles
 
-Unfortunately humans are active particles. They do not diffuse down gradients of prestige, opportunity, or expectation. They self-propel. And this creates problems that the scientist phenotype does not breed true.
+Unfortunately, humans are active particles.
 
-A great scientist may train a student who becomes another great scientist. But the student may also become a consultant, an entrepreneur, a software engineer, a high-school teacher, a musician, or a very happy person who discovers that they never particularly liked research in the first place. Some people enter graduate school because follow a very carefully designed career trajectory. Some are simply delaying the alarming prospect of getting a real job.
+They do not diffuse down gradients of prestige, opportunity, or expectation. They self-propel. And this creates a problem for the pedigree hypothesis: the scientist phenotype does not breed true.
 
-Scientific ancestry is neither necessary nor sufficient.
+A great scientist may train a student who becomes another great scientist. But the student may also become a consultant, an entrepreneur, a software engineer, a high-school teacher, a musician, or a very happy person who discovers that they never particularly liked research in the first place.
 
-The reverse direction is even more damaging to the pedigree hypothesis.
+Scientific ancestry is neither necessary nor sufficient. The reverse direction is even more damaging to the pedigree hypothesis that scientists routinely appear where no obvious scientific ancestry can be found. Before putting on a lab coat, one future scientist might have been doing manual work at a petroleum complex. Another might have sat through an unbearably dull internship at a semiconductor company and concluded that whatever he wanted from life, this could not possibly be it. Another might have spent a winter repairing frozen pipes in a state key laboratory with broken AC, serving as its unofficial plumber. They can enter the field with occasional "de-recommendations". They are not always invited.
 
-Scientists routinely appear where no obvious scientific ancestry can be found.
+One scientific lineage may descend from the laureate(s).
 
-Before putting on a lab coat, one future scientist might have been doing physical work in petroleum industry. Another might have sat through an unbearably dull internship at a semiconductor company and concluded that whatever he wanted from life, this could not possibly be it. Another might have spent a winter repairing frozen pipes in a state key laboratory as a plumber man.
+Another may begin with an assistant professor who barely survived the tenure process, fought desperately to keep his lab alive, and nevertheless managed to convince a student that doing science was worth the damn trouble.
 
-One scientific lineage may descend from a Nobel laureate.
+It is not obvious which lineage will produce the better scientists.
 
-Another lineage may begin with an assistant professor who barely survived the tenure process, fought desperately to keep his lab alive, and nevertheless managed to convince a student that doing science was worth the trouble.
+Pedigrees are supposed to make predictions easier.
 
-It is not obvious which lineage will have produced the better scientist.
-
-As pedigrees are supposed to make prediction easier. Science refuses to cooperate.
+Science refuses to cooperate.
 
 ## The Locked Door
 
-There is a lineage hard to name: the transmission of the conviction that a question can be attacked, that an unfamiliar field can be entered, and that a closed door is a physical object rather than a divine commandment.
+There is another kind of lineage, harder to name: the transmission of the conviction that a question can be attacked, that an unfamiliar field can be entered, and that a closed door is a physical object rather than a divine commandment.
 
 Suppose you arrive at a door.
 
 The door is locked.
 
-A bad scientist tells you: **The door is locked.** This statement is arguably correct.
+A bad scientist tells you:
+
+**The door is locked.**
+
+This statement may be perfectly correct.
 
 A good scientist tells you how the lock works.
 
-There is a cylinder here, several pins of different heights, a shear line, a spring-loaded mechanism, and a particular range of configurations in which rotation becomes possible.
+There is a cylinder, several pins of different heights, a shear line, a spring-loaded mechanism, and a particular range of configurations in which rotation becomes possible.
 
-Now the impossibility has become a mechanism, a great improvement.
+Now the impossibility has become a mechanism.
 
-A even better scientist brings a screwdriver.
+That is already a great improvement.
+
+An even better scientist brings a screwdriver.
 
 Someone with a slight engineering tendency may remove the hinges.
 
 And while a group of physicists are still standing in front of the door discussing the height of the energy barrier, somebody eventually throws a brick through the window.
 
-This is the nonequilibrium process. It is hard but it works.
+This is a nonequilibrium process.
+
+It is inelegant, but it works.
 
 ## Initial Conditions
 
 Many barriers in science are real.
 
-There are prestigious institutions, powerful networks, expensive instruments, famous advisors, selective fellowships, recommendation letters, immigration restrictions, differences in money, geography, language, luck, and timing.
+There are prestigious institutions, powerful networks, expensive instruments, famous advisors, selective fellowships, recommendation letters, immigration restrictions, and differences in money, geography, language, luck, and timing.
 
 Some people are handed a key.
 
@@ -85,13 +104,13 @@ Some arrive already knowing that the door exists.
 
 Others encounter the same door without a key, without a map, and occasionally without anyone willing to confirm that there is anything interesting on the other side.
 
-It would be dishonest to pretend that these initial conditions do not matter, because they matter.
+It would be dishonest to pretend that these initial conditions do not matter because they do.
 
 But an initial condition is not a boundary condition.
 
-People can inject active forces into the passive system.
+People inject active forces into the system.
 
-They change directions.
+They change direction.
 
 They cross disciplines.
 
@@ -101,13 +120,13 @@ They read one paper at the right time.
 
 They become bored.
 
-They become angry.
+They become indignant.
 
 They fail at one thing and become curious about another.
 
 They move to another country.
 
-They ask a question for which they have absolutely no formal qualification and then spend several years becoming qualified to answer it.
+They ask a question for which they have absolutely no formal qualification, and then spend several years becoming qualified to answer it.
 
 Noise matters.
 
@@ -119,13 +138,13 @@ Self-motivation matters.
 
 ## Horizontal Transfer
 
-So perhaps scientific "blood" exists after all. But it behaves more like horizontal gene transfer.
+So perhaps scientific "blood" exists after all.
+
+But it behaves more like horizontal gene transfer.
 
 A way of thinking can jump between unrelated people.
 
 Someone at MIT may transmit it.
-
-Someone at Caltech may transmit it.
 
 Someone at UIUC may transmit it.
 
@@ -133,9 +152,11 @@ Someone at IBS in Korea may transmit it.
 
 Someone at UMass may transmit it.
 
+It may even begin at ZJU---not in a lab, but in an old warehouse tucked into a small corner of campus, with mice regularly scurrying overhead.
+
 It may pass through the student of a Nobel laureate.
 
-It may also pass through a young professor whose career just hardly began.
+It may also pass through an assistant professor whose academic career nearly ended before it properly began.
 
 Curiosity can jump.
 
@@ -145,7 +166,7 @@ Standards can jump.
 
 So can the habit of looking at an apparently impossible problem and asking a slightly different question:
 
-**Why is it impossible?**
+**Why, exactly, is it impossible?**
 
 That may be the most important inheritance a scientist can leave.
 
@@ -153,6 +174,14 @@ Academic pedigree tells us where someone came from.
 
 It does not tell us where someone is allowed to go.
 
-**Xinyu**\
-*Amherst, Massachusetts*\
+![Not a grand lineage. Just a rather boring polymer.](academic-polymer.png){fig-alt="Hand-drawn polymer network connecting scientists and laureates with fellowships, visas, food, reviewers, and everyday obligations." width="100%"}
+
+Artwork by ChatGPT; any faults are its own.
+
+*And to the stranger who made it this far: may you find your door, your window, or, if necessary, a good screwdriver.*
+
+--- Xinyu
+
+*Amherst, Massachusetts*
+
 *September 2026*
