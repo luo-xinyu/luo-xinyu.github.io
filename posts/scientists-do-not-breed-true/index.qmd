@@ -6,6 +6,7 @@ description: "Academic pedigree tells us where someone came from. It does not te
 image: academic-polymer.png
 image-alt: "A hand-drawn polymer network of scientific careers and everyday life."
 toc: true
+css: article.css
 ---
 
 ## The Pedigree Hypothesis
@@ -176,7 +177,9 @@ It does not tell us where someone is allowed to go.
 
 ![Not a grand lineage. Just a rather boring polymer.](academic-polymer.png){fig-alt="Hand-drawn polymer network connecting scientists and laureates with fellowships, visas, food, reviewers, and everyday obligations." width="100%"}
 
+::: {.artwork-credit}
 Artwork by ChatGPT; any faults are its own.
+:::
 
 *And to the stranger who made it this far: may you find your door, your window, or, if necessary, a good screwdriver.*
 
