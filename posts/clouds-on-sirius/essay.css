@@ -1,0 +1,50 @@
+.essay-page main.content {
+  max-width: 760px;
+  margin-inline: auto;
+  width: 100%;
+}
+
+.essay-page #title-block-header {
+  margin-bottom: 2.6rem;
+}
+
+.essay-page h1.title {
+  font-family: "Noto Serif CJK SC", "Source Han Serif SC", "Songti SC", "SimSun", serif;
+  font-size: clamp(2rem, 5vw, 2.65rem);
+  letter-spacing: 0.06em;
+  line-height: 1.5;
+}
+
+.essay-page main.content > p {
+  font-family: "Noto Serif CJK SC", "Source Han Serif SC", "Songti SC", "SimSun", serif;
+  font-size: 1.0625rem;
+  line-height: 2;
+  margin-bottom: 1.35rem;
+  overflow-wrap: break-word;
+}
+
+.essay-page .essay-signature {
+  margin: 2.6rem 0 2.2rem;
+  text-align: right;
+  color: #626b70;
+  font-size: 0.95rem;
+  line-height: 1.9;
+}
+
+.essay-page .essay-photo {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0 auto 2rem;
+}
+
+@media (max-width: 600px) {
+  .essay-page #title-block-header {
+    margin-bottom: 2rem;
+  }
+
+  .essay-page main.content > p {
+    font-size: 1rem;
+    line-height: 1.95;
+  }
+}
