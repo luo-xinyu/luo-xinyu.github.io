@@ -3,8 +3,8 @@ title: "Personality Is a Big Lie"
 author: "Xinyu Luo"
 date: "2026-11-24"
 description: "Four letters may describe some of your habits. They should never determine the limits of the person you can become."
-image: mbti-fake.png
-image-alt: "A simplified DNA double strand with MBTI on the left and FAKE on the right."
+image: mbti-fake-horizontal.png
+image-alt: "A horizontal DNA double strand with upright MBTI above FAKE."
 toc: false
 css: figure-layout.css
 ---
@@ -31,6 +31,6 @@ So much for the four letters. Enough playing pretend. Let's get down to business
 
 ```{=html}
 <figure class="dna-figure">
-  <img src="mbti-fake.png" width="756" height="881" alt="A simplified DNA double strand with four paired rows: M with F, B with A, T with K, and I with E. The left column spells MBTI and the right spells FAKE.">
+  <img src="mbti-fake-horizontal.png" width="1536" height="1024" alt="A horizontal DNA double strand with four fully connected pairs: M above F, B above A, T above K, and I above E. The top row spells MBTI and the bottom row spells FAKE. All letters are upright, and the strands cross and extend slightly at both ends.">
 </figure>
 ```
